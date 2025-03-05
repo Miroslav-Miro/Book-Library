@@ -85,4 +85,4 @@ This project is open-source and available under the **MIT License**.
 ## 🔗 Links  
 - **Live Demo:** *Coming soon*  
 - **API Used:** [Open Library API](https://openlibrary.org/developers/api)  
-- **GitHub Repository:** [Flask-Book-Library](https://github.com/Miroslav-Miro/Flask-Book-Library)  
+- **GitHub Repository:** [Book-Library](https://github.com/Miroslav-Miro/Book-Library)  
